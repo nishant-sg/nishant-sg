@@ -1,0 +1,4 @@
+# Ignore the Profile Beautifier web app builder directory
+profile-beautifier/
+node_modules/
+dist/
