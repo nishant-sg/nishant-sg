@@ -1,6 +1,7 @@
-Hi!
+![GitHub Light Logo](https://github.com)![GitHub Dark Logo](https://github.com)
 
-
-![enter image description here](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishant-sg&theme=transparent)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishant-sg&theme=transparent)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com">
+  <img alt="GitHub Theme Logo" src="https://github.com">
+</picture>
